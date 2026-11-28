@@ -240,7 +240,7 @@ python main.py
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 Run the workflow test suite:
 
